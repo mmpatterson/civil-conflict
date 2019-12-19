@@ -1,5 +1,7 @@
 ## project-one
 
+![Screen Shot 2019-12-19 at 12 31 00 PM](https://user-images.githubusercontent.com/54033512/71199393-7c3d9380-225b-11ea-9147-65e928ea17fa.png)
+
 # Team Members:  
 Max, Erin, Mahdi, Anastasios
 
